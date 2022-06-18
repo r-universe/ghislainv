@@ -1,0 +1,10 @@
+[
+  {
+    "package": "hSDM",
+    "oncran": true
+  },
+  {
+    "package": "jSDM",
+    "oncran": true
+  }
+]
