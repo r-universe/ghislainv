@@ -1,10 +1,10 @@
 [
   {
-    "package": "hSDM",
+    "package": "jSDM",
     "oncran": true
   },
   {
-    "package": "jSDM",
+    "package": "hSDM",
     "oncran": true
   }
 ]
