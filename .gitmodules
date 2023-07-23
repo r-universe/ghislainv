@@ -5,3 +5,6 @@
 [submodule "hSDM"]
 	path = hSDM
 	url = https://github.com/ghislainv/hsdm
+[submodule "jSDM"]
+	path = jSDM
+	url = https://github.com/ghislainv/jsdm
